@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Eunice
-- 👀 I’m interested in data visualization, analysis and manipulation. 
-- 🌱 I’m currently learning data analysis and my goal is to be a Data Engineer, 
+- 👀 I’m interested in data.
+- 🌱 I’m currently learning data science and my goal is to be a Data Engineer, 
 - 📫 You can reach me through email: ewgichuh@uwaterloo.ca
