@@ -2,4 +2,3 @@
 - 👀 I’m interested in data.
 - 🌱 I’m an aspiring Data Engineer, 
 - 📫 You can reach me through email: ewgichuh@uwaterloo.ca
-- I also create websites for friends and my community. You might see some of these on here :)
